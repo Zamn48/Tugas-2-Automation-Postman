@@ -1,0 +1,28 @@
+{
+	"id": "0c10274f-ae72-47ff-ac5f-0c9e10d2f59a",
+	"name": "development",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "x-api-key",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "busRoutesID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-10-21T18:06:47.989Z",
+	"_postman_exported_using": "Postman/12.33.2"
+}
